@@ -1,6 +1,9 @@
 <h1 align="center">Prices</h1>
 <h3 align="center">standard unless otherwise stated</h3>
 
-16x16 Block $10
-16x16 Item $5
+<h2 align="center">16x16 Block - $10</h2>
+<h2 align="center">16x16 Item - $5</h2>
+<h2 align="center">16x16 Fluid - $5</h2>
+<h2 align="center">Model - request quote</h2>
 
+<h2 align="center">Don't see what you need? - request quote</h2>
