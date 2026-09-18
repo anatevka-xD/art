@@ -1,4 +1,4 @@
-<h1 align="center">Prices</h1>
+<h1 align="center">PRICING</h1>
 <h3 align="center">standard unless otherwise stated</h3>
 
 <h2 align="left">16x16 Block - $10</h2>
