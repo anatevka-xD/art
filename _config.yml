@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: [COMMISSIONS]
-tagline: [minecraft pixel art commissions]
-description: []
+title: art
+tagline: by anatevka
+description: 
 plugins:
   - jekyll-remote-theme
