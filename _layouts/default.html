@@ -13,7 +13,24 @@
     {% include head-custom.html %}
   </head>
   <body>
-	<canvas id="starfield-canvas"></canvas>
+	<canvas
+	  id="starfield-canvas"
+	  style="
+		position: fixed !important;
+		top: 0 !important;
+		left: 0 !important;
+		width: 100vw !important;
+		height: 100vh !important;
+		max-width: none !important;
+		max-height: none !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		display: block !important;
+		z-index: 0 !important;
+		pointer-events: none !important;
+	  "
+	></canvas>
+
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
