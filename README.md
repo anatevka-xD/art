@@ -5,9 +5,11 @@
 | Items | $5-10 |
 | Fluids | $5-10 |
 | Models | Request quote |
-
 Don't see what you need? Request a quote by messaging me on Discord with your project particulars
 # SHOWCASE
+![Misc showcase](docs/assets/images/misc%20showcase.png)
+![Industria showcase](docs/assets/images/industria%20showcase.png)
+![Witchery remake examples](docs/assets/images/witchery%20remake%20examples.png)
 
 # LICENSING
 >[!CAUTION]  
