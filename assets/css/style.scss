@@ -1,3 +1,9 @@
+$body-background-color: transparent;
+$body-text-color: #fff;
+$body-link-color: #fff;
+$section-headings-color: #fff;
+$blockquote-text-color: #fff;
+
 @import "{{ site.theme }}";
 
 .showcase-image {
