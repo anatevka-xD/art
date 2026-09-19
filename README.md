@@ -12,7 +12,18 @@ Request a quote by messaging me on Discord with your project particulars
 Request a quote by messaging me on Discord with your project particulars
 ##
 <h1 align="left">Showcase</h1>
-<img width="2400" height="800" alt="misc showcase" src="https://github.com/user-attachments/assets/fd10882b-58e5-4503-b925-ae3fff973483" />
-<img width="2400" height="640" alt="industria showcase" src="https://github.com/user-attachments/assets/e5bea49a-2df0-4248-906c-14d2a476d682" />
-<img width="2400" height="1600" alt="witchery remake examples" src="https://github.com/user-attachments/assets/51713d58-200e-4651-97cc-3f1afd4d3458" />
-
+<img
+  class="showcase-image"
+  alt="misc showcase"
+  src="https://github.com/user-attachments/assets/fd10882b-58e5-4503-b925-ae3fff973483"
+>
+<img
+  class="showcase-image"
+  alt="misc showcase"
+  src="https://github.com/user-attachments/assets/e5bea49a-2df0-4248-906c-14d2a476d682"
+>
+<img
+  class="showcase-image"
+  alt="misc showcase"
+  src="https://github.com/user-attachments/assets/51713d58-200e-4651-97cc-3f1afd4d3458"
+>
