@@ -1,21 +1,21 @@
+html,
 body {
-  position: relative;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  min-height: 100% !important;
 }
 
 #starfield-canvas {
   position: fixed !important;
-  inset: 0 !important;
-  display: block !important;
+  top: 0 !important;
+  left: 0 !important;
   width: 100vw !important;
   height: 100vh !important;
   max-width: none !important;
   max-height: none !important;
-  min-width: 100vw !important;
-  min-height: 100vh !important;
-}
-
-.wrapper {
-  position: relative;
-  z-index: 1;
+  display: block !important;
+  z-index: -1 !important;
+  pointer-events: none !important;
 }
 
