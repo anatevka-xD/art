@@ -14,8 +14,8 @@ Don't see what you need? Request a quote by messaging me on Discord with your pr
 
 # LICENSING
 >[!CAUTION]  
-By commissioning me and/or purchasing an asset, you agree to the following:
-1. 50% of commission price will be paid up front, and the remaining 50% will be delivered upon completion.
+>By commissioning me and/or purchasing an asset, you agree to the following:
+>1. 50% of commission price will be paid up front, and the remaining 50% will be delivered upon completion.
 2. You may not claim authorship of the original asset or falsely deny my authorship of it.
 3. You may not use the asset, in whole or in part, to train, fine-tune, or otherwise develop artificial intelligence or machine-learning models.
 4. You may, subject to the restrictions above, use the asset for any lawful purpose.
