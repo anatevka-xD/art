@@ -1,3 +1,7 @@
+body {
+  position: relative;
+}
+
 #starfield-canvas {
   position: fixed;
   inset: 0;
@@ -11,3 +15,4 @@
   position: relative;
   z-index: 1;
 }
+
