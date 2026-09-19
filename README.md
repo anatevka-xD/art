@@ -1,13 +1,12 @@
 <h1 align="center">PRICING</h1>
 <h3 align="center">standard unless otherwise stated</h3>
-<h2 align="left">Blocks</h2>
-$5-10 depending on complexity
-<h2 align="left">Items</h2>
-$5-10 depending on complexity
-<h2 align="left">Fluids</h2>
-$5, simple liquids only
-<h2 align="left">Models</h2>
-Request a quote by messaging me on Discord with your project particulars
+Type  | Price
+------------- | -------------
+Blocks  | $5-10
+Items  | $5-10
+Fluids | $5-10
+Models | Request quote
+  
 <h2 align="left">Don't see what you need?</h2>
 Request a quote by messaging me on Discord with your project particulars
 ##
