@@ -1,13 +1,3 @@
-# ASSETS
-  
-| TYPE | PRICE |
-| --- | --- |
-| Blocks | $5-10 |
-| Items | $5-10 |
-| Fluids | $5-10 |
-| Models | Request quote |
-  
-*Don't see what you need? Request a quote by messaging me on Discord with your project particulars!*
 # SHOWCASE
 ![Misc showcase](assets/images/misc%20showcase.png)
 ![Industria showcase](assets/images/industria%20showcase.png)
