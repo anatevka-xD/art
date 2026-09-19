@@ -17,15 +17,15 @@ Request a quote by messaging me on Discord with your project particulars
 <img class="showcase-image" alt="witchery remake examples" src="docs/assets/images/witchery%20remake%20examples.png">
 <h1 align="center">LICENSING</h1>
 By commissioning me and/or purchasing an asset, you agree to the following:
-50% of commission price will be paid up front, and the remaining 50% to be delivered upon completion.
   
-You may not claim authorship of the original asset or falsely deny my authorship of it.
-You may not use the asset, in whole or in part, to train, fine-tune, or otherwise develop artificial intelligence or machine-learning models.
-You may, subject to the restrictions above, use the asset for any lawful purpose.
+1. 50% of commission price will be paid up front, and the remaining 50% to be delivered upon completion.
+2. You may not claim authorship of the original asset or falsely deny my authorship of it.
+3. You may not use the asset, in whole or in part, to train, fine-tune, or otherwise develop artificial intelligence or machine-learning models.
+4. You may, subject to the restrictions above, use the asset for any lawful purpose.
   
 After selling the asset, I:
-Reserve the right to display the asset, including its original or modified form, in my portfolio and promotional materials.
-Reserve the right to resell the asset in whole or in part, either in its original form or modified form.
+1. Reserve the right to display the asset, including its original or modified form, in my portfolio and promotional materials.
+2. Reserve the right to resell the asset in whole or in part, either in its original form or modified form.
   
 If you wish to have any of the above terms waived or altered, an additional licensing fee will apply. Any such alteration must be agreed upon separately.
 Credit is not required, although it is greatly appreciated.
