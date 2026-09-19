@@ -8,9 +8,7 @@
 
 Don't see what you need? Request a quote by messaging me on Discord with your project particulars
 # SHOWCASE
-<img class="showcase-image" alt="misc showcase" src="docs/assets/images/misc%20showcase.png">
-<img class="showcase-image" alt="industria showcase" src="docs/assets/images/industria%20showcase.png">
-<img class="showcase-image" alt="witchery remake examples" src="docs/assets/images/witchery%20remake%20examples.png">
+
 # LICENSING
 >[!CAUTION]  
 By commissioning me and/or purchasing an asset, you agree to the following:
