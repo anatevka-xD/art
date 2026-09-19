@@ -1,5 +1,23 @@
+---
+---
+
 @import "{{ site.theme }}";
 
 body {
-  background: red !important;
+  color: white !important;
+  background: transparent !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: white !important;
+}
+
+a {
+  color: white !important;
+}
+
+.showcase-image {
+  display: block;
+  width: 100%;
+  height: auto !important;
 }
