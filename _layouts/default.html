@@ -39,8 +39,40 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+       <div class="assets-info">
+		  <h2>ASSETS</h2>
 
+		  <table>
+			<thead>
+			  <tr>
+				<th>TYPE</th>
+				<th>PRICE</th>
+			  </tr>
+			</thead>
+			<tbody>
+			  <tr>
+				<td>Blocks</td>
+				<td>$5-10</td>
+			  </tr>
+			  <tr>
+				<td>Items</td>
+				<td>$5-10</td>
+			  </tr>
+			  <tr>
+				<td>Fluids</td>
+				<td>$5-10</td>
+			  </tr>
+			  <tr>
+				<td>Models</td>
+				<td>Request quote</td>
+			  </tr>
+			</tbody>
+		  </table>
+
+		  <p><em>Don't see what you need? Request a quote by messaging me on Discord with your project particulars!</em></p>
+		</div>
+
+		<p></p>
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
