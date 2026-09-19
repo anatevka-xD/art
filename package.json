@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "my-constellation-bg": "github:anupamraj176/my-constellation-bg"
+    "my-constellation-bg": "^2.1.3"
   }
 }
