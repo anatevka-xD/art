@@ -1,25 +1,19 @@
-<h1 align="center">PRICING</h1>
-<h3 align="center">standard unless otherwise stated</h3>
+# PRICING
 <div>
-
 | Type | Price |
 | --- | --- |
 | Blocks | $5-10 |
 | Items | $5-10 |
 | Fluids | $5-10 |
 | Models | Request quote |
-
 </div>
 
-<h2 align="left">Don't see what you need?</h2>
-Request a quote by messaging me on Discord with your project particulars
-<br>
-<h1 align="center">SHOWCASE</h1>
+Don't see what you need? Request a quote by messaging me on Discord with your project particulars
+# SHOWCASE
 <img class="showcase-image" alt="misc showcase" src="docs/assets/images/misc%20showcase.png">
 <img class="showcase-image" alt="industria showcase" src="docs/assets/images/industria%20showcase.png">
 <img class="showcase-image" alt="witchery remake examples" src="docs/assets/images/witchery%20remake%20examples.png">
-<h1 align="center">LICENSING</h1>
-<br>
+# LICENSING
 >[!CAUTION]  
 >By commissioning me and/or purchasing an asset, you agree to the following:
 1. 50% of commission price will be paid up front, and the remaining 50% will be delivered upon completion.
