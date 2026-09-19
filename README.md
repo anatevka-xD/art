@@ -12,6 +12,8 @@ Request a quote by messaging me on Discord with your project particulars
 Request a quote by messaging me on Discord with your project particulars
 ##
 <h1 align="left">Showcase</h1>
-<img class="showcase-image" alt="misc showcase" src="https://github.com/anatevka-xD/art/blob/main/docs/assets/images/misc%20showcase.png">
-<img class="showcase-image" alt="misc showcase" src="https://github.com/anatevka-xD/art/blob/main/docs/assets/images/industria%20showcase.png">
-<img class="showcase-image" alt="misc showcase" src="https://github.com/anatevka-xD/art/blob/main/docs/assets/images/witchery%20remake%20examples.png">
+<img class="showcase-image" alt="misc showcase" src="assets/images/misc%20showcase.png">
+
+<img class="showcase-image" alt="industria showcase" src="assets/images/industria%20showcase.png">
+
+<img class="showcase-image" alt="witchery remake examples" src="assets/images/witchery%20remake%20examples.png">
