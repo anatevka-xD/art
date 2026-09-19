@@ -5,6 +5,7 @@
 | Items | $5-10 |
 | Fluids | $5-10 |
 | Models | Request quote |
+  
 Don't see what you need? Request a quote by messaging me on Discord with your project particulars
 # SHOWCASE
 ![Misc showcase](docs/assets/images/misc%20showcase.png)
