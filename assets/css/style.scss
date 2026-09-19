@@ -1,14 +1,5 @@
 @import "{{ site.theme }}";
 
-.showcase-image {
-  display: block;
-  width: 100%;
-  height: auto !important;
-}
-
-body,
-h1, h2, h3, h4, h5, h6,
-a,
-strong {
-  color: white;
+body {
+  background: red !important;
 }
