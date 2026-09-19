@@ -12,8 +12,8 @@ Don't see what you need? Request a quote by messaging me on Discord with your pr
 ![Industria showcase](docs/assets/images/industria%20showcase.png)
 ![Witchery remake examples](docs/assets/images/witchery%20remake%20examples.png)
 
-# LICENSING
->[!CAUTION]  
+>[!CAUTION]
+># LICENSING 
 >By commissioning me and/or purchasing an asset, you agree to the following:
 >1. 50% of commission price will be paid up front, and the remaining 50% will be delivered upon completion.
 >2. You may not claim authorship of the original asset or falsely deny my authorship of it.
