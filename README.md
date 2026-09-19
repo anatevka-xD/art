@@ -24,7 +24,7 @@ By commissioning me and/or purchasing an asset, you agree to the following:
   
 After selling the asset, I:
 1. Reserve the right to display the asset, including its original or modified form, in my portfolio and promotional materials.
-2. Reserve the right to resell the asset in whole or in part, either in its original form or modified form.
+2. Reserve the right to resell the asset in whole or in part, either in its original or modified form.
   
 If you wish to have any of the above terms waived or altered, an additional licensing fee will apply. Any such alteration must be agreed upon separately.
 Credit is not required, although it is greatly appreciated.
