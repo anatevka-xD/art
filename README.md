@@ -12,6 +12,6 @@ Request a quote by messaging me on Discord with your project particulars
 Request a quote by messaging me on Discord with your project particulars
 ##
 <h1 align="left">Showcase</h1>
+<img class="showcase-image" alt="misc showcase" src="https://github.com/anatevka-xD/art/blob/main/docs/assets/images/misc%20showcase.png">
 <img class="showcase-image" alt="misc showcase" src="https://github.com/anatevka-xD/art/blob/main/docs/assets/images/industria%20showcase.png">
-<img class="showcase-image" alt="misc showcase" src="https://github.com/anatevka-xD/art/blob/main/docs/assets/images/industria%20showcase.png">
-<img class="showcase-image" alt="misc showcase" src="https://github.com/user-attachments/assets/51713d58-200e-4651-97cc-3f1afd4d3458">
+<img class="showcase-image" alt="misc showcase" src="">
