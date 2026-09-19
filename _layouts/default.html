@@ -56,8 +56,17 @@
 	<script src="{{ "/dist/index.js" | relative_url }}"></script>
 
 	<script>
-    const canvas = document.getElementById('starfield-canvas');
-    const starfield = new CosmicCanvas(canvas, { theme: 'aurora' });
+	  const canvas = document.getElementById('starfield-canvas');
+
+	  canvas.width = window.innerWidth;
+	  canvas.height = window.innerHeight;
+	  canvas.style.width = '100vw';
+	  canvas.style.height = '100vh';
+
+	  const starfield = new CosmicCanvas(canvas, {
+		theme: 'aurora',
+		starCount: 1500
+	  });
 	</script>
   </body>
 </html>
