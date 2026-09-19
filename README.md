@@ -1,4 +1,5 @@
 # PRICING
+  
 | Type | Price |
 | --- | --- |
 | Blocks | $5-10 |
